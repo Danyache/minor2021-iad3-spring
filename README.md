@@ -1,5 +1,5 @@
 Это репозиторий группы ИАД-3. Здесь будут выкладываться материалы семинаров и домашних заданий по нашему курсу. А также, возможно, другие полезные материалы. 
 
-* Инвайт в anytask -- xAWTEmD
-* Ссылка на зум -- https://zoom.us/j/94956280541?pwd=KzJrZzlUUDJ0Rnc0dTZIbjZlNjdzZz09
-* Ссылка на чатик в тг -- https://t.me/joinchat/ES5w2w4fersnpdf0UWoMNw
+* Инвайт в anytask –– xAWTEmD
+* Ссылка на зум –– https://zoom.us/j/94956280541?pwd=KzJrZzlUUDJ0Rnc0dTZIbjZlNjdzZz09
+* Ссылка на чатик в тг –– https://t.me/joinchat/ES5w2w4fersnpdf0UWoMNw
